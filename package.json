@@ -1,0 +1,21 @@
+{
+  "name": "reunis",
+  "version": "1.0.0",
+  "description": "COVID REUNIS PERU screenshooter ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "covid",
+    "peru",
+    "reunis"
+  ],
+  "author": "necudeco@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.3",
+    "momentjs": "^2.0.0",
+    "puppeteer": "^14.1.0"
+  }
+}
